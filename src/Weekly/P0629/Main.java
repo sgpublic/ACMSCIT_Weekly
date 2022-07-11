@@ -1,4 +1,4 @@
-package P0629;
+package Weekly.P0629;
 
 import java.util.Scanner;
 

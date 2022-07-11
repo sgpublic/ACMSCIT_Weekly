@@ -1,4 +1,4 @@
-package P0702;
+package Weekly.P0702;
 
 import java.util.HashSet;
 import java.util.Scanner;

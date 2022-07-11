@@ -1,4 +1,4 @@
-package P0709.Q1423;
+package Weekly.P0709.Q1423;
 
 import java.util.Scanner;
 
