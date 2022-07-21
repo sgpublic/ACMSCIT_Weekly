@@ -1,4 +1,4 @@
-package PTA.P1002_AAddBForPolynomials;
+package Training.Day22.PTA1002_AAddBForPolynomials;
 
 import java.util.*;
 
